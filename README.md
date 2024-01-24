@@ -1,2 +1,4 @@
-# bano-Qabil-pythoon
-CIT Pythoon Class 8 To 10
+This is my First Git Respostory
+Author-Affan Ahmed 
+Bano Qabil Instructor
+Python CIT 8 to 10
